@@ -1,0 +1,53 @@
+[
+    {
+        "role": "Software Engineering Fellow",
+        "organization": "Headstarter AI",
+        "startDate": "Jul 2024",
+        "endDate": "Present",
+        "experiences": [],
+        "imageSrc": "history/google.png"
+    },
+    {
+        "role": "Committee Software Engineer",
+        "organization": "Rose Hack",
+        "startDate": "Mar 2022",
+        "endDate": "May 2024",
+        "experiences": [],
+        "imageSrc": "history/google.png"
+    },
+    {
+        "role": "Firmware Engineering Intern",
+        "organization": "Highlander Racing",
+        "startDate": "Jun 2024",
+        "endDate": "Present",
+        "experiences": [],
+        "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Graphic Designer",
+      "organization": "Key Club International",
+      "startDate": "Mar 2022",
+      "endDate": "May 2024",
+      "experiences": ["Helped the division's Instagram account gain 300 new followers by creating meticulously designed graphics and collaborating with other members of the Division Leadership Team, representing a 26% increase in total followers.", "Drove a 15% increase in social media engagement by creating graphics with other designers, representing more member engagement."],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Website Designer Intern",
+      "organization": "Honusquare",
+      "startDate": "Dec 2022",
+      "endDate": "Jun 2023",
+      "experiences": ["Migrated elements from old website to new website, leading to an official launch of the new website", "Created new branding guidelines for the company to follow, resulting in a 5% increase of positive Google reviews"],
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "Graphic Design Intern",
+      "organization": "Dear Future College Student",
+      "startDate": "Sep 2022",
+      "endDate": "Mar 2023",
+      "experiences": [
+        "Worked on component library",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/netflix.png"
+    }
+  ]
