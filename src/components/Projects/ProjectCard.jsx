@@ -17,6 +17,7 @@ export default function ProjectCard(props) {
             {skills}
           </li>;
         })}
+        <li>{skills}</li>
       </ul>
       <div className={styles.buttons}>
         <a className={styles.button} href={demo}>
