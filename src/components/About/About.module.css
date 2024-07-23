@@ -50,7 +50,7 @@
 }
 
 .aboutItem:hover{
-    background: linear-gradient(90deg, #10244a 0%, rgba(25, 55, 109, 0) 100%);
+    background: linear-gradient(90deg, #2e9ff0cd 0%, rgba(25, 55, 109, 0) 100%);
 }
 
 .aboutItem h3{
@@ -67,6 +67,7 @@
         background-color: transparent;
         padding-left: 0;
         padding-right: 0;
+        margin-top: 50px;
     }
 
     .content{
