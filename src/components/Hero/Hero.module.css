@@ -32,7 +32,7 @@
     margin-bottom: 52px;
 }
 
-.contactBtn{
+.btn{
     text-decoration: none;
     background-color: var(--color-primary);
     color: var(--color-text);
@@ -42,6 +42,12 @@
     padding: 10px 26px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
     margin-top: -20px;
+}
+
+.buttons{
+    gap: 20px;
+    display: flex;
+    flex-direction: row;
 }
 
 .heroImg{
@@ -100,8 +106,15 @@
         flex-direction: column-reverse;
     }
 
-    .contactBtn{
+    .btn{
         align-self: center;
+    }
+
+    .buttons{
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+        width: 100%;
     }
 
     .heroImg{
